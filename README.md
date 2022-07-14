@@ -3,6 +3,8 @@
 - 🎓 I am a PHD student on Machine learning and Deep learning technologie
 - 💻 I work on anomalie detection in videos and object detection
 - 🌱 I do some personal project on my community [@verride community](https://github.com/override-community)
+- ![image](https://user-images.githubusercontent.com/18414802/179000349-9aef9fba-2c44-4274-bf80-3863067180b2.png)
+I speak French, Spanish and some english
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit [my personal page] (https://fab16bsb.github.io/index.html)
 
