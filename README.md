@@ -3,7 +3,7 @@
 - 🎓 I am a PHD student on Machine learning and Deep learning technologie
 - 💻 I work on anomalie detection in videos and object detection
 - 🌱 I do some personal project on my community [@verride community](https://github.com/override-community)
-- <img src="france.png" width=15, height=15/> <img src="espagne.png" width=15, height=15/> <img src="anglais.png" width=15, height=15/> I speak French, Spanish and some english
+- <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/france.png" width=15, height=15/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/espagne.png" width=15, height=15/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/anglais.png" width=15, height=15/> I speak French, Spanish and some english
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit [my personal page] (https://fab16bsb.github.io/index.html)
 
@@ -28,7 +28,7 @@
 
 <h2> Connect with me </h2>
 <p align="left">
-<a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank" title="personal youtube chanel"> <img src="youtube_icon.png" height="40" width="40"> </a>
-<a href ="https://medium.com/@fab.16" target="blank" title="personal medium"> <img src="medium_icon.png" height="40" width="40"> </a>
-<a href="https://discord.gg/pgEUk9xVKe" target="blank" title="personal discord serveur"> <img src="discord_icon.png" height="40" width="40"> </a>
+<a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank" title="personal youtube chanel"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" height="40" width="40"> </a>
+<a href ="https://medium.com/@fab.16" target="blank" title="personal medium"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" height="40" width="40"> </a>
+<a href="https://discord.gg/pgEUk9xVKe" target="blank" title="personal discord serveur"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" height="40" width="40"> </a>
 </p>
