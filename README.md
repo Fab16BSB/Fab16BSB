@@ -3,8 +3,7 @@
 - 🎓 I am a PHD student on Machine learning and Deep learning technologie
 - 💻 I work on anomalie detection in videos and object detection
 - 🌱 I do some personal project on my community [@verride community](https://github.com/override-community)
-- ![image](https://user-images.githubusercontent.com/18414802/179000349-9aef9fba-2c44-4274-bf80-3863067180b2.png)
-I speak French, Spanish and some english
+- <img src="france.png" width=15, height=15/> <img src="espagne.png" width=15, height=15/> <img src="anglais.png" width=15, height=15/> I speak French, Spanish and some english
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit [my personal page] (https://fab16bsb.github.io/index.html)
 
@@ -29,7 +28,7 @@ I speak French, Spanish and some english
 
 <h2> Connect with me </h2>
 <p align="left">
-<a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A"> Youtube </a>
-<a href ="https://medium.com/@fab.16"> Medium </a>
-<a href="https://discord.gg/pgEUk9xVKe"> Discord Serveur </a>
+<a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank" title="personal youtube chanel"> <img src="youtube_icon.png" height="40" width="40"> </a>
+<a href ="https://medium.com/@fab.16" target="blank" title="personal medium"> <img src="medium_icon.png" height="40" width="40"> </a>
+<a href="https://discord.gg/pgEUk9xVKe" target="blank" title="personal discord serveur"> <img src="discord_icon.png" height="40" width="40"> </a>
 </p>
