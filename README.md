@@ -3,7 +3,7 @@
 - 🎓 I am a PHD student on Machine learning and Deep learning technologie
 - 💻 I work on anomalie detection in videos
 - 🌱 I do some personal project on my community [@verride community](https://github.com/override-community)
-- 📧 To contact me <a href="mailto:fpoirier03@etud.univ-paris8.fr">abdoulaye@duck.com</a>
+- 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit [my personal page] (https://fab16bsb.github.io/index.html)
 
 <table>
