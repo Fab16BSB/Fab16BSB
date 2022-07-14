@@ -3,9 +3,9 @@
 - 🎓 I am a PHD student on Machine learning and Deep learning technology.
 - 💻 I work on anomalies detection in videos and object detection.
 - 🌱 I do some personal project on my community [@override community](https://github.com/override-community)
-- <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/france.png" width=15, height=15/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/espagne.png" width=15, height=15/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/anglais.png" width=15, height=15/> I speak french, spanish and some english.
+- <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/france.png" width=15, height=15 style="cursor:text"/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/espagne.png" width=15, height=15 style="cursor:text"/> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/anglais.png" width=15, height=15 style="cursor:text"/> I speak french, spanish and some english.
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
-- 🛠️ For more information visit [my personal page] (https://fab16bsb.github.io/index.html)
+- 🛠️ For more information visit <a href="https://fab16bsb.github.io/index.html" style="cursor:help"> my personal page </a>
 
 <table>
   <tr class="noborder">
@@ -27,8 +27,7 @@
 </table>
 
 <h2> Connect with me </h2>
-<p align="left">
-<a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank" title="personal youtube chanel"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" align="center" alt="youtube" height="40" width="40"> </a>
-<a href ="https://medium.com/@fab.16" target="blank" title="personal medium"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" align="center" alt="medium" height="40" width="40"> </a>
-<a href="https://discord.gg/pgEUk9xVKe" target="blank" title="personal discord serveur"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" align="center" alt="discord" height="40" width="40"> </a>
+<p align="left"><img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" align="center" alt="youtube" height="40" width="40"> <a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank" title="personal youtube chanel"> My personal chanel </a> <br>
+<img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" align="center" alt="medium" height="40" width="40"> <a href ="https://medium.com/@fab.16" target="blank" title="personal medium"> My medium </a> <br>
+<img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" align="center" alt="discord" height="40" width="40"> <a href="https://discord.gg/pgEUk9xVKe" target="blank" title="personal discord serveur"> My personal discord server </a>
 </p>
