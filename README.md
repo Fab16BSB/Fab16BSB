@@ -28,9 +28,17 @@
 
 <h2> Connect with me </h2>
 <p align="left">
+   <a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" title="personal youtube chanel"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" align="center" alt="youtube" height="40" width="40"> </a> <br>
+ 
+   <a href ="https://medium.com/@fab.16" title="personal medium"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" align="center" alt="medium" height="40" width="40"> </a> <br>
+ 
+    <a href="https://discord.gg/pgEUk9xVKe" title="personal discord serveur"> <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" align="center" alt="discord" height="40" width="40"> </a>
+
+<!--
   <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" align="center" alt="youtube" height="40" width="40"> <a href = "https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" title="personal youtube chanel"> My personal chanel </a> <br>
   
   <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" align="center" alt="medium" height="40" width="40"> <a href ="https://medium.com/@fab.16" title="personal medium"> My medium </a> <br>
   
   <img src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" align="center" alt="discord" height="40" width="40"> <a href="https://discord.gg/pgEUk9xVKe" title="personal discord serveur"> My personal discord server </a>
+  -->
 </p>
