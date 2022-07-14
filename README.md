@@ -28,8 +28,7 @@
 
 <h2> Connect with me </h2>
 <p align="left">
-
-  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" alt="optimisticritam-80a801220" height="40" width="40" /></a>
-  <a href="https://medium.com/@fab.16" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" alt="optimisticritam-80a801220" height="40" width="40" /></a>
-    <a href="https://discord.gg/pgEUk9xVKe" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" alt="optimisticritam-80a801220" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" alt="youtube" title="Youtube chanel" height="40" width="40" /></a>
+  <a href="https://medium.com/@fab.16" target="blank"> <img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" alt="medium" title="Medium page" height="40" width="40" /></a>
+    <a href="https://discord.gg/pgEUk9xVKe" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/discord_icon.png" alt="discord" title="Discord personal server" height="40" width="40" /></a>
 </p>
