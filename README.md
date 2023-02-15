@@ -8,6 +8,17 @@
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit <a href="https://fab16bsb.github.io/index.html" style="cursor:help"> my personal page </a>
 
+<p align="center">
+  <img alt="youtube subscribers" title="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
+
+  <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+
+   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fab16BSB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  
+   <img alt="followers" title="Total followers on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Fab16BSB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</p>
+
+<h2> Stats </h2>
 
 <table>
   <tr class="noborder">
@@ -28,16 +39,15 @@
   </tr>
 </table>
 
-<p align="center">
-  <img alt="youtube subscribers" title="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
+<table>
+  <tr class="noborder">
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab16BSB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
-  <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
 
-   <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fab16BSB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  
-   <img alt="followers" title="Total followers on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Fab16BSB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  
-</p>
 
 <h2> Connect with me </h2>
 <p align="left">
