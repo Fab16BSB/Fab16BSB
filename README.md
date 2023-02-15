@@ -7,16 +7,6 @@
 - 📧 To contact me <a href="mailto:fpoirier03@univ-paris8.fr">fpoirier03@univ-paris8.fr</a>
 - 🛠️ For more information visit <a href="https://fab16bsb.github.io/index.html" style="cursor:help"> my personal page </a>
 
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-</a> 
-  
-</p>
 
 <table>
   <tr class="noborder">
@@ -36,6 +26,16 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A">
+    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
+  </a> 
+</p>
 
 <h2> Connect with me </h2>
 <p align="left">
