@@ -1,4 +1,5 @@
 <h1> About ME </h1>  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=%2B5+years+of+coding+experience+;Java+%2F+Python+%2F+Deep+learning;Keep+in+mind+knowledge+doesn't+take+up+space" alt="Typing SVG" /></a>
 
 - 🎓 I am a PHD student on Machine learning and Deep learning technology.
 - 💻 I work on anomalies detection in videos and object detection.
