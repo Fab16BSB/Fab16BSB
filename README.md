@@ -32,8 +32,6 @@
 
   <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
 
-  <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>  
-
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fab16BSB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fab16BSB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
