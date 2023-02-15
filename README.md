@@ -34,7 +34,7 @@
 <table>
   <tr class="noborder">
     <td>
-       <img src="https://activity-graph.herokuapp.com/graph?username=Fab16BSB&bg_color=000000&color=ffffff&line=3a88fe&point=77bb41&area=true&hide_border=true" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab16BSB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
     </td>
   </tr>
 </table>
@@ -42,7 +42,7 @@
 <table>
   <tr class="noborder">
     <td>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fab16BSB&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+       <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Fab16BSB&theme=react-dark&bg_color=20232a&hide_border=true"/>
     </td>
   </tr>
 </table>
