@@ -11,7 +11,7 @@
 <table>
   <tr class="noborder">
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Fab16BSB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+      <img src="https://github-readme-stats.vercel.app/api?username=Fab16BSB&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"/>
     </td>
     <td>
       <img src=https://github-readme-streak-stats.herokuapp.com?user=Fab16BSB&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D />
@@ -28,13 +28,14 @@
 </table>
 
 <p align="center">
-  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
+  <img alt="youtube subscribers" title="youtube subscribers" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCHS2xgITwh7olsnznmq8o0A?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630">
 
   <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCHS2xgITwh7olsnznmq8o0A?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/>
 
+   <img alt="followers" title="Total followers on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Fab16BSB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  
    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Fab16BSB?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
 
-   <img alt="followers" title="followers on github" src="https://custom-icon-badges.demolab.com/github/followers/Fab16BSB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   
 </p>
 
