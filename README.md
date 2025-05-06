@@ -1,4 +1,4 @@
-<h1> About ME </h1>  
+# 💫 About ME 
 <img alt="name" src="name.png"/>
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%2B5+years+of+coding+experience+;Java+%2F+Python+%2F+Deep+learning;Keep+in+mind+knowledge+doesn't+take+up+space" alt="Typing SVG" /></a>
 
@@ -41,20 +41,20 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FAB16BSB&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FAB16BSB&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FAB16BSB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FAB16BSB&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fab16BSB/Fab16BSB/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fab16BSB/Fab16BSB/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Fab16BSB/Fab16BSB/output/github-snake.svg"/>
 </picture>
 
-<h2> Connect with me </h2>
+# 🔗 Connect with me
 <p align="left">
   <a href="https://www.youtube.com/channel/UCHS2xgITwh7olsnznmq8o0A" target="blank"><img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/youtube_icon.png" alt="youtube" title="Youtube chanel" height="40" width="40" /></a>
   <a href="https://medium.com/@fab.16" target="blank"> <img align="center" src="https://github.com/Fab16BSB/Fab16BSB.github.io/blob/main/Image/medium_icon.png" alt="medium" title="Medium page" height="40" width="40" /></a>
